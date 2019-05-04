@@ -12,10 +12,8 @@ This repo. contains the course materials for a 6-week introductory machine learn
 ### 3. Mathematical Foundattions: Probability
 
 ### 4. Machine Learning's Bread and Butter:
-
-
 - Optimization
-  -  
+  - Mathematics for ML: Chapter 7, Continuous Optimization
 - Automatic differentiation (AD)
   - Book: "Automatic Differentiation: Applications, Theory, and Implementations" published in 2006 by Springer
     - Article 1: "Backwards Differentiation in AD and Neural Nets: Past Links and New Opportunities" by Paul Werbos, in book
@@ -29,3 +27,9 @@ This repo. contains the course materials for a 6-week introductory machine learn
 ### 6. Essential Tools: 
 - Data manipulation and visualization
 - Large scale experimentation
+
+
+## Key References:
+- Mathematics for Machine Learning by Marc Peter: https://mml-book.github.io/
+- A Course is Machine Learning by Hal Daume III: http://ciml.info/
+- Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares by Stephen Boyd & Lieven Vanderghe: https://web.stanford.edu/~boyd/vmls/vmls.pdf
