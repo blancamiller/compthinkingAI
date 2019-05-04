@@ -13,6 +13,7 @@ This repo. contains the course materials for a 6-week introductory machine learn
 
 ### 4. Machine Learning's Bread and Butter:
 
+
 - Optimization
   -  
 - Automatic differentiation (AD)
