@@ -1,6 +1,6 @@
 # Computational Thinking for AI
 
-This repo. contains the course materials for a 6-week introductory machine learning master's courses that covers the foundational concepts and tools needed for research of this field. The weekly structure of the course is as follows:
+This repo. contains the course materials for a 6-week introductory machine learning master's course that covers the foundational concepts and tools needed for research of this field. The weekly structure of the course is as follows:
 
 ## Week
 ### 1. Introduction to:
@@ -15,6 +15,8 @@ This repo. contains the course materials for a 6-week introductory machine learn
 - Optimization
   - Mathematics for ML: Chapter 7, Continuous Optimization
 - Automatic differentiation (AD)
+
+Resources for AD
   - Book: "Automatic Differentiation: Applications, Theory, and Implementations" published in 2006 by Springer
     - Article 1: "Backwards Differentiation in AD and Neural Nets: Past Links and New Opportunities" by Paul Werbos, in book
     - Article 2: by Louis Rall, "Perspectives on Automatic Differentiation: Past, Present, and Future?", good history of AD.
